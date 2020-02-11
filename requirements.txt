@@ -1,0 +1,5 @@
+click
+fiona
+geojson
+numpy
+shapely
